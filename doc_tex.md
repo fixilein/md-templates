@@ -4,11 +4,12 @@ author: [Felix Tröbinger]
 date: \today
 keywords: []
 subtitle: "<++>"
-titlepage: false
-toc: false
-toc-own-page: false
-disable-header-and-footer: false
+toc: true
 lang: "en"
+geometry: margin=3cm
+fontsize: 11pt
+header-includes:
+	- \usepackage{blindtext}
 ...
 
 # <++>

@@ -4,9 +4,9 @@ author: [Felix Tröbinger]
 date: \today
 keywords: []
 subtitle: "<++>"
-titlepage: false
-toc: false
-toc-own-page: false
+titlepage: true
+toc: true
+toc-own-page: true
 disable-header-and-footer: false
 lang: "en"
 ...
